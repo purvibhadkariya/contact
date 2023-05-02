@@ -12,3 +12,6 @@ signup
 
 Contact details -> { name, photo, gender, email, phone, address }
 
+
+
+
