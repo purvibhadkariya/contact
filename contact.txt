@@ -1,0 +1,14 @@
+Contact Management Application
+
+
+Login
+signup
+1. Home page with list of all contacts 
+2. View Each Contact
+3. Add new Contact   
+4. Edit Contact
+5. use another folder to save secured contact (privacy) 
+
+
+Contact details -> { name, photo, gender, email, phone, address }
+
